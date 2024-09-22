@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: SpatianPicker6
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{"interactable":null},"position":{"x":-418.0,"y":-57.0},"guid":"be4b161d-e39d-4fb9-b5c8-7d7d42a0abcc","$version":"A","$type":"SpatialSys.UnitySDK.VisualScripting.SpatialInteractableOnExit","$id":"9"},{"defaultValues":{"sku":{"$content":"","$type":"System.String"}},"position":{"x":-24.0,"y":-118.0},"guid":"a42c7653-622b-4603-93fd-74a985ae96bc","$version":"A","$type":"SpatialSys.UnitySDK.VisualScripting.SetLocalAvatarNode","$id":"11"},{"type":"System.String","value":{"$content":"66efb1bbc23d0d0c2a3d5215","$type":"System.String"},"defaultValues":{},"position":{"x":-378.0,"y":88.0},"guid":"a58203c1-6a4b-4b45-821b-264e183c20cb","$version":"A","$type":"Unity.VisualScripting.Literal","$id":"13"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"11"},"destinationKey":"inputTrigger","guid":"93d54663-869d-4268-9dfa-f26c5fb48dc5","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"13"},"sourceKey":"output","destinationUnit":{"$ref":"11"},"destinationKey":"sku","guid":"71cd9c65-41e6-40a4-9f11-4d3afbf7be4d","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []
