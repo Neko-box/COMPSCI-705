@@ -25,3 +25,8 @@ Also made couple of visual scripts(Assets -> Examples -> Avatar_Spatian -> Scrip
 | Spatian       | SpatianPicker   |
 | Spatian1      | SpatianPicker2  |
 | Spatian2      | SpatianPicker3  |
+| Spatian3      | SpatianPicker4  |
+| Spatian4      | SpatianPicker5  |
+| Spatian5      | SpatianPicker6  |
+| Spatian6      | SpatianPicker7  |
+| Spatian7      | SpatianPicker8  |
