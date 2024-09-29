@@ -30,3 +30,6 @@ Also made couple of visual scripts(Assets -> Examples -> Avatar_Spatian -> Scrip
 | Spatian5      | SpatianPicker6  |
 | Spatian6      | SpatianPicker7  |
 | Spatian7      | SpatianPicker8  |
+
+### Brightness
+In this scene, I created a "photo studio" scene, which contains 4 rooms. The "photo studio" and the rooms are set to 0 reflection to ensure the reaction between the brightness and the avatar.
