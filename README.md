@@ -36,3 +36,4 @@ In this scene, I created a "photo studio" scene, which contains 4 rooms. The "ph
 
 ### Result of Questionniare
 [Scatter Plot](https://imgur.com/a/ipNRlfG)
+![Bubble Chart](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
