@@ -37,4 +37,4 @@ In this scene, I created a "photo studio" scene, which contains 4 rooms. The "ph
 ### Result of Questionniare
 [Scatter Plot](https://imgur.com/a/ipNRlfG) 
 
-![Bubble Chart](img/Screenshot 2024-09-30 192502.png)
+![Bubble Chart](/img/Screenshot 2024-09-30 192502.png)
